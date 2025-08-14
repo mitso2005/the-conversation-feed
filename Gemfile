@@ -60,3 +60,4 @@ gem 'feedjira'
 gem 'httparty'
 gem 'nokogiri'
 gem 'cgi'
+gem "tailwindcss-ruby", "~> 4.1"
