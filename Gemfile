@@ -58,3 +58,5 @@ gem "tailwindcss-rails", "~> 4.3"
 
 gem 'feedjira'
 gem 'httparty'
+gem 'nokogiri'
+gem 'cgi'
